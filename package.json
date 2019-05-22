@@ -4,6 +4,7 @@
   "description": "site developed in node, graphQL and mongodb",
   "main": "index.js",
   "scripts": {
+	"start":"node index.js",
     "test": "npm install"
   },
   "repository": {

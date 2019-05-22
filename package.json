@@ -1,0 +1,31 @@
+{
+  "name": "graphql-manunitedteam",
+  "version": "1.0.0",
+  "description": "site developed in node, graphQL and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprachit09/GraphQL-ManunitedTeam.git"
+  },
+  "keywords": [
+    "Node",
+    "GraphQL"
+  ],
+  "author": "Prachit Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pprachit09/GraphQL-ManunitedTeam/issues"
+  },
+  "homepage": "https://github.com/pprachit09/GraphQL-ManunitedTeam#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.10"
+  }
+}
